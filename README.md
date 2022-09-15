@@ -1,0 +1,1 @@
+Prime benchmark in F#
